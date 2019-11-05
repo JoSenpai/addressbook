@@ -1,6 +1,10 @@
-package tutorial
+package main
 
-import "fmt"
+import (
+	"fmt"
+
+	pb "github.com/josenpai/addressbook/proto/tutorial"
+)
 
 func main() {
 
